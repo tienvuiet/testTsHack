@@ -238,7 +238,6 @@ store.calculateTotalRevenue()
 store.updateProductStock(2,100)
 store.products.forEach(e=>console.log(e.getProductInfo())
 )
-//  10.tim kiem va hien thi thong tin bang id
-//  11.xem thong tin chi tiet
+
 
 
